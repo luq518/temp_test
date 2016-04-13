@@ -1,4 +1,5 @@
 #include<stdio.h>  
+//dlsadj
 
 const int c = 7;             //背包的容量  
 const int w[] = {0,2,3,5,6};//物品的重量 
