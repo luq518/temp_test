@@ -1,3 +1,5 @@
+
+#include <string.h>
 #include <stdio.h>
 
 /* CRC table for the CRC-16-IBM. The poly is 0x8005 (x^16 + x^15 + x^2 + 1) */
