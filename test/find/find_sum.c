@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 dump(float *array, int size)
 {
 	int i;
