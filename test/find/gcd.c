@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 int gcd(int a, int b)
 {
 	int i=a;
